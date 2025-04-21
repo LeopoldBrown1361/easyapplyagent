@@ -1,0 +1,187 @@
+Job ID,Job Link,Resume Tried,Date listed,Date Tried,Assumed Reason,Stack Trace,External Job link,Screenshot Name
+4195706250,https://www.linkedin.com/jobs/view/4195706250,Leopold Brown Default Resume 4-13-2025.docx.pdf,Unknown,2025-04-13 14:08:06.671834,Problem in Easy Applying,Job application discarded by user!,Easy Applied,Not Available
+4197119800,https://www.linkedin.com/jobs/view/4197119800,Pending,Unknown,2025-04-13 14:08:15.420209,Required experience is high,"
+About the job
+Senior or Architect-Level Fullstack Engineer
+ Fully Remote - Anywhere in the USA
+
+We’re seeking an exceptional Fullstack Engineer to join our small but impactful tech team. As a startup making waves in the LLM marketplace, we tackle complex challenges to create a more reliable, scalable, and efficient AI infrastructure.
+Why Join Us?
+
+Top-tier Compensation – Competitive salary & RSUs.
+Remote & Flexible – Work from anywhere in the USA.
+High-impact Role – Help shape one of the largest cloud AI APIs ever built.
+Innovative Tech Stack – Work with cutting-edge tools in a fast-paced environment.
+Open-Source Community – Contribute to and improve key AI/ML libraries.
+Tech Stack & Infrastructure
+
+Frontend: React, TypeScript, Next.js
+Backend: TypeScript
+Infrastructure: Cloudflare (Global API deployment), Vercel (Website hosting)
+Edge-first & Serverless Experience – A plus!
+What You’ll Work On
+
+Routing Algorithms: Optimize inference capacity, track provider uptime, and manage real-time routing at scale.
+Scalability & Fairness: Ensure fair and efficient AI model access across thousands of customers.
+New Features: Improve model marketplace search, expose more structured data, and enhance community feedback mechanisms.
+Who You Are
+
+4 - 5+ years of experience in full-stack development.
+Strong React, TypeScript, and Next.js expertise.
+Ability to ship user-facing features in a modern front-end framework.
+Experience with distributed infrastructure and edge computing is a plus.
+Passion for AI/ML and open-source contributions.
+Our Vision
+
+We’re building the middleware layer for AI inference, making AI functionality reliable, composable, and compliant for developers everywhere. If you’re excited about working on one of the largest cloud AI APIs, we’d love to hear from you!
+
+ Apply Now – Join a team of brilliant engineers making a real difference in AI.
+
+Experience required 4 > Current Experience 3. Skipping this job!
+",Skipped,Not Available
+4201089947,https://www.linkedin.com/jobs/view/4201089947,Pending,Unknown,2025-04-13 14:08:23.326493,Required experience is high,"
+About the job
+Role Overview:
+The Software QA Engineer will be pivotal in improving the stability and reliability of the company’s software ecosystem, which spans mobile apps, web apps, cloud services, firmware, and Bluetooth connectivity. This role reports directly to the CTO. This individual will develop and execute comprehensive end-to-end test strategies that address critical stability concerns, including device connectivity, data integrity, and latency issues across the entire system. The role will also involve collaborating with the development team to ensure the smooth rollout of new features and accelerate product improvements, directly contributing to delivering a high-quality user experience. Join a passionate, QA-friendly culture where quality and customer happiness are at the core of what we do.
+
+Key Responsibilities:Test Planning & Strategy
+Develop and document comprehensive, end-to-end test strategies to address critical stability concerns, including:
+Bluetooth connectivity between wearable devices, base stations, and mobile apps.
+Data integrity and latency issues during data transfer between nodes.
+Stability of firmware updates and their interaction with cloud services.
+Create both automated and manual test cases to validate core functionality and ensure system reliability.
+Collaborate with developers and product managers to define test requirements, acceptance criteria, and testing priorities.
+Testing Execution
+Execute comprehensive testing based on the planned strategies, including:
+Connectivity testing to validate Bluetooth performance, switching logic, and pairing stability.
+Regression testing to catch recurring issues and ensure consistent performance across releases.
+Stress testing and edge case testing to evaluate system behavior under real-world conditions.
+Identify, document, and track issues related to: ◦ Data synchronization failures ◦ Latency and data dropouts ◦ Device pairing and unpairing issues ◦ Firmware update reliability
+Automation Framework, Tools, and Metrics
+Implement automated test frameworks to streamline regression testing for:
+Cross-platform Mobile apps (e.g., Appium, XCTest, etc.) testing
+Web apps (e.g., Cypress, Playwright)
+Cloud services and APIs
+Create and maintain automated test scripts for Bluetooth connectivity flows, including switching logic between direct-to-mobile and base station connections.
+Develop monitoring scripts and dashboards to track key performance metrics, including: • Connectivity stability, latency, and data integrity • Test execution times and success rates • Automation coverage and efficiency • Identification of performance bottlenecks and recurring issues
+Release Management
+Establish pre-release checklists to ensure key stability risks are tested before deployment.
+Work closely with developers to establish better CI/CD integration to improve test automation coverage and faster identification of bugs.
+Collaboration & Communication
+Act as the ""quality advocate"" within the software team, driving improved software and firmware reliability.
+Collaborate closely with firmware engineers to improve device stability through enhanced testing strategies.
+Participate in sprint planning, standups, and retrospectives to provide visibility into QA efforts.
+
+Desired Skills & Experience:
+4-6 years of QA experience with a focus on hardware-integrated software, Bluetooth devices, and cloud-connected systems.
+Strong knowledge of Bluetooth Low Energy (BLE) testing methods and tools.
+Experience with firmware testing in real-world scenarios.
+Proficiency with automated test frameworks like Appium, XCTest, Cypress, or Playwright.
+Familiarity with network debugging tools like Wireshark for analyzing connectivity issues.
+Ability to collaborate with developers to improve stability, streamline bug reproduction, and ensure critical issues are resolved efficiently.
+Desire language proficiencies: Python, JavaScript, Shell/Bash, Dart.
+Preferred Skills:
+Prior experience in consumer device or wearable technology testing.
+Familiarity with iOS testing frameworks to support the upcoming direct-to-mobile connectivity feature.
+Experience with cloud monitoring tools for identifying backend issues contributing to instability.
+Ideal Candidate Profile:
+A proactive problem-solver who thrives in a startup environment, capable of balancing both manual and automated testing efforts. The ideal candidate will have a strong technical background with experience tackling complex connectivity challenges and improving end-to-end system stability.
+
+Experience required 4 > Current Experience 3. Skipping this job!
+",Skipped,Not Available
+4191818267,https://www.linkedin.com/jobs/view/4191818267,Leopold Brown Default Resume 4-13-2025.docx.pdf,Unknown,2025-04-13 14:10:03.767769,Problem in Easy Applying,Job application discarded by user!,Easy Applied,Not Available
+4197135251,https://www.linkedin.com/jobs/view/4197135251,Pending,Unknown,2025-04-19 09:22:35.534725,Asking for Security clearance,"
+About the job
+We are looking for Algorithmic Programmer 45 minutes outside of Pittsburgh Pennsylvania. The job is on-site due to being in a high security environment. Remote access from offsite is prohibited.
+
+Our work ethic is exceptional, our clients understand we produce quality products that are on schedule and at the provided cost. What do we have for you? We don’t offer competitive wages, we offer above average wages with benefits and the opportunity to grow with us.
+ Responsibilities
+Activities include the development and processing of data automation systems and data processing algorithms using AI and ML in a high security environment. You will be expected to build browser based tools and dashboards to process data using Shiny and R. The work environment is challenging due not having access to the normal tools from the web. You will have to make most things from scratch.
+
+Qualifications
+Employment is contingent on background screening, drug screening, beryllium testing (BeLPT), 40hr HAZWOPER, and physical. Individuals are required to obtain a government security clearance and must be a US. citizen. Experience and a working knowledge of R and Shiny is required. Other experience and knowledge that is a plus are AI and ML programming using h2o.ai or Apache Spark. Familiarity with Linux and configuring web servers and load balanced clusters with Apache 2 is a plus. SQL database knowledge is also a plus. A Bachelor's Degree in physics, engineering, mathematics, or computer science are required. No less than two years of direct job experience is required.
+
+Found ""Clearance"" or ""Polygraph"". Skipping this job!
+",Skipped,Not Available
+4195706250,https://www.linkedin.com/jobs/view/4195706250,Leopold Brown Default Resume 4-13-2025.docx.pdf,Unknown,2025-04-19 09:23:32.741957,Problem in Easy Applying,"Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************rgMA. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}",Easy Applied,Not Available
+4192152033,https://www.linkedin.com/jobs/view/4192152033,Leopold Brown Default Resume 4-13-2025.docx.pdf,Unknown,2025-04-19 09:25:19.029717,Problem in Easy Applying,Job application discarded by user!,Easy Applied,Not Available
+4195706250,https://www.linkedin.com/jobs/view/4195706250,Leopold Brown Default Resume 4-13-2025.docx.pdf,Unknown,2025-04-19 09:28:37.801770,Problem in Easy Applying,Job application discarded by user!,Easy Applied,Not Available
+4195706250,https://www.linkedin.com/jobs/view/4195706250,Leopold Brown Default Resume 4-13-2025.docx.pdf,Unknown,2025-04-19 09:32:17.579250,Problem in Easy Applying,"Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: not connected to DevTools
+  (Session info: chrome=135.0.7049.85)
+Stacktrace:
+	GetHandleVerifier [0x00007FF6746F5355+78597]
+	GetHandleVerifier [0x00007FF6746F53B0+78688]
+	(No symbol) [0x00007FF6744A91AA]
+	(No symbol) [0x00007FF674494EF5]
+	(No symbol) [0x00007FF6744B9F04]
+	(No symbol) [0x00007FF67452ED0F]
+	(No symbol) [0x00007FF67454EBB2]
+	(No symbol) [0x00007FF674526EC3]
+	(No symbol) [0x00007FF6744F03F8]
+	(No symbol) [0x00007FF6744F1163]
+	GetHandleVerifier [0x00007FF67499EF0D+2870973]
+	GetHandleVerifier [0x00007FF6749996B8+2848360]
+	GetHandleVerifier [0x00007FF6749B6993+2967875]
+	GetHandleVerifier [0x00007FF67471019A+188746]
+	GetHandleVerifier [0x00007FF67471847F+222255]
+	GetHandleVerifier [0x00007FF6746FD2D4+111236]
+	GetHandleVerifier [0x00007FF6746FD482+111666]
+	GetHandleVerifier [0x00007FF6746E35A9+5465]
+	BaseThreadInitThunk [0x00007FF844B7E8D7+23]
+	RtlUserThreadStart [0x00007FF8467D14FC+44]
+",Easy Applied,Not Available
+4195706250,https://www.linkedin.com/jobs/view/4195706250,Previous resume,Unknown,2025-04-19 09:33:15.941736,Problem in Easy Applying,"Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************rgMA. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}",Easy Applied,Not Available
+4195706250,https://www.linkedin.com/jobs/view/4195706250,Previous resume,Unknown,2025-04-19 09:43:46.744330,Problem in Easy Applying,Job application discarded by user!,Easy Applied,Not Available
+4182909943,https://www.linkedin.com/jobs/view/4182909943,Previous resume,Unknown,2025-04-19 09:44:21.867879,Problem in Easy Applying,"Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************rgMA. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}",Easy Applied,Not Available
+4211477246,https://www.linkedin.com/jobs/view/4211477246,Previous resume,Unknown,2025-04-19 09:52:08.473404,Problem in Easy Applying,"Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************rgMA. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}",Easy Applied,Not Available
+4182909943,https://www.linkedin.com/jobs/view/4182909943,Pending,Unknown,2025-04-19 09:55:42.105852,Found Blacklisted words in About Company,Failed to find an element with given classes,Skipped,Not Available
+4179435087,https://www.linkedin.com/jobs/view/4179435087,Pending,Unknown,2025-04-19 10:56:41.925731,,,Skipped,Not Available
+4206850839,https://www.linkedin.com/jobs/view/4206850839,Pending,Unknown,2025-04-19 10:56:48.081917,,,Skipped,Not Available
+4181286209,https://www.linkedin.com/jobs/view/4181286209,Pending,Unknown,2025-04-19 10:56:52.146576,,,Skipped,Not Available
+4206541698,https://www.linkedin.com/jobs/view/4206541698,Pending,Unknown,2025-04-19 10:56:56.105119,,,Skipped,Not Available
+4183303106,https://www.linkedin.com/jobs/view/4183303106,Pending,Unknown,2025-04-19 10:57:00.273296,,,Skipped,Not Available
+4083240625,https://www.linkedin.com/jobs/view/4083240625,Pending,Unknown,2025-04-19 10:57:06.351003,,,Skipped,Not Available
+4206541698,https://www.linkedin.com/jobs/view/4206541698,Pending,Unknown,2025-04-19 10:59:12.764416,,,Skipped,Not Available
+4083240625,https://www.linkedin.com/jobs/view/4083240625,Pending,Unknown,2025-04-19 10:59:18.734625,,,Skipped,Not Available
+4183303106,https://www.linkedin.com/jobs/view/4183303106,Pending,Unknown,2025-04-19 10:59:23.083517,,,Skipped,Not Available
+4205097161,https://www.linkedin.com/jobs/view/4205097161,Pending,Unknown,2025-04-19 10:59:27.407616,,,Skipped,Not Available
+4191580528,https://www.linkedin.com/jobs/view/4191580528,Pending,Unknown,2025-04-19 10:59:31.725868,,,Skipped,Not Available
+4191448950,https://www.linkedin.com/jobs/view/4191448950,Pending,Unknown,2025-04-19 10:59:36.156999,,,Skipped,Not Available
+4206541698,https://www.linkedin.com/jobs/view/4206541698,Pending,Unknown,2025-04-19 11:08:26.524832,,,Skipped,Not Available
+4183303106,https://www.linkedin.com/jobs/view/4183303106,Pending,Unknown,2025-04-19 11:08:38.347877,,,Skipped,Not Available
+4083240625,https://www.linkedin.com/jobs/view/4083240625,Pending,Unknown,2025-04-19 11:08:51.419272,,,Skipped,Not Available
+4206541698,https://www.linkedin.com/jobs/view/4206541698,Pending,Unknown,2025-04-19 11:10:17.191262,,,Skipped,Not Available
+4206541698,https://www.linkedin.com/jobs/view/4206541698,Previous resume,Unknown,2025-04-19 11:12:25.564815,Problem in Easy Applying,name 'ai_exp' is not defined,Easy Applied,Not Available
+4190160238,https://www.linkedin.com/jobs/view/4190160238,Pending,Unknown,2025-04-19 11:55:06.662092,,,Skipped,Not Available
+3774716377,https://www.linkedin.com/jobs/view/3774716377,Pending,Unknown,2025-04-19 11:55:20.972317,,,Skipped,Not Available
+4210885605,https://www.linkedin.com/jobs/view/4210885605,Pending,Unknown,2025-04-19 11:55:32.964105,,,Skipped,Not Available
+4181208811,https://www.linkedin.com/jobs/view/4181208811,Pending,Unknown,2025-04-19 11:55:41.795641,,,Skipped,Not Available
+4166700413,https://www.linkedin.com/jobs/view/4166700413,Pending,Unknown,2025-04-19 11:55:59.256410,,,Skipped,Not Available
+4209411621,https://www.linkedin.com/jobs/view/4209411621,Pending,Unknown,2025-04-21 10:19:22.076118,,,Skipped,Not Available
+4208075657,https://www.linkedin.com/jobs/view/4208075657,Pending,Unknown,2025-04-21 10:19:33.471768,,,Skipped,Not Available
+4206569886,https://www.linkedin.com/jobs/view/4206569886,Pending,Unknown,2025-04-21 10:19:47.370236,,,Skipped,Not Available
+4210169476,https://www.linkedin.com/jobs/view/4210169476,Pending,Unknown,2025-04-21 10:33:50.354833,,,Skipped,Not Available
+4190160238,https://www.linkedin.com/jobs/view/4190160238,Pending,Unknown,2025-04-21 10:34:06.396218,,,Skipped,Not Available
+4209743512,https://www.linkedin.com/jobs/view/4209743512,Pending,Unknown,2025-04-21 10:46:19.597981,,,Skipped,Not Available
+4190160238,https://www.linkedin.com/jobs/view/4190160238,Pending,Unknown,2025-04-21 10:46:34.106063,,,Skipped,Not Available
+4210169476,https://www.linkedin.com/jobs/view/4210169476,Pending,Unknown,2025-04-21 10:46:53.728536,,,Skipped,Not Available
+4189736015,https://www.linkedin.com/jobs/view/4189736015,Pending,Unknown,2025-04-21 10:47:13.024764,,,Skipped,Not Available
+4209743512,https://www.linkedin.com/jobs/view/4209743512,Pending,Unknown,2025-04-21 10:48:09.765801,,,Skipped,Not Available
+4190160238,https://www.linkedin.com/jobs/view/4190160238,Pending,Unknown,2025-04-21 10:48:15.131066,,,Skipped,Not Available
+4209743512,https://www.linkedin.com/jobs/view/4209743512,Pending,Unknown,2025-04-21 10:57:55.245274,,,Skipped,Not Available
+4190160238,https://www.linkedin.com/jobs/view/4190160238,Pending,Unknown,2025-04-21 10:58:00.677136,,,Skipped,Not Available
+4210169476,https://www.linkedin.com/jobs/view/4210169476,Pending,Unknown,2025-04-21 10:58:10.959819,,,Skipped,Not Available
+3774716377,https://www.linkedin.com/jobs/view/3774716377,Pending,Unknown,2025-04-21 10:58:19.146437,,,Skipped,Not Available
+4190977496,https://www.linkedin.com/jobs/view/4190977496,Pending,Unknown,2025-04-21 10:58:24.503358,,,Skipped,Not Available
+4208075657,https://www.linkedin.com/jobs/view/4208075657,Pending,Unknown,2025-04-21 10:59:02.235319,Found Blacklisted words in About Company,Failed to find an element with given classes,Skipped,Not Available
+4186771029,https://www.linkedin.com/jobs/view/4186771029,Pending,Unknown,2025-04-21 11:09:49.203898,,,Skipped,Not Available
+4205971602,https://www.linkedin.com/jobs/view/4205971602,Pending,Unknown,2025-04-21 11:10:03.977100,,,Skipped,Not Available
+4214064707,https://www.linkedin.com/jobs/view/4214064707,Pending,Unknown,2025-04-21 11:10:19.138402,,,Skipped,Not Available
+4206009205,https://www.linkedin.com/jobs/view/4206009205,Pending,Unknown,2025-04-21 11:10:38.500131,,,Skipped,Not Available
+4214060828,https://www.linkedin.com/jobs/view/4214060828,Pending,Unknown,2025-04-21 11:10:53.166587,,,Skipped,Not Available
+4209119754,https://www.linkedin.com/jobs/view/4209119754,Pending,Unknown,2025-04-21 11:11:06.360020,,,Skipped,Not Available
+4186771029,https://www.linkedin.com/jobs/view/4186771029,Pending,Unknown,2025-04-21 11:14:41.649618,,,Skipped,Not Available
+4205971602,https://www.linkedin.com/jobs/view/4205971602,Pending,Unknown,2025-04-21 11:14:55.665424,,,Skipped,Not Available
+4186771029,https://www.linkedin.com/jobs/view/4186771029,Pending,Unknown,2025-04-21 11:19:19.056307,,,Skipped,Not Available
+4205971602,https://www.linkedin.com/jobs/view/4205971602,Pending,Unknown,2025-04-21 11:19:36.016507,,,Skipped,Not Available
